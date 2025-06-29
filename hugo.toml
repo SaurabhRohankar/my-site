@@ -78,3 +78,7 @@ github = { href = "https://github.com/SaurabhRohankar", target = "_blank", icon 
 # [params.experimental]
 # jsDate = true
 # jsDateFormat = "yyyy年MM月dd日"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
