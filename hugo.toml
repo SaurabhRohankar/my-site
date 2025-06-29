@@ -1,0 +1,80 @@
+baseURL = 'https://saurabhrohankar.in/'
+defaultContentLanguage = "en"
+languageCode = 'en-us'
+title = "Saurabh's blog"
+theme = 'dream'
+
+# [services]
+# [services.disqus]
+# shortname = ""
+# [services.googleAnalytics]
+# ID = ""
+
+[params]
+# zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+
+# backgroundImage = "img/global-background.jpg"
+# backgroundImageDark = ""
+
+author = "Saurabh"
+description = "Just some of my thoughts shared on the internet"
+avatar = "img/avatar.jpg"
+headerTitle = "Saurabh's Blog"
+motto = "Learn a lot, play a lot, care a lot"
+#motto = "It's not about possible or impossible. I'm doing it because I want to"
+
+footerBottomText = "Be kind"
+
+rss = true
+
+# utterancesRepo = ""
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+
+# waline = true
+# walineServer = ""
+
+# email = ""
+
+siteStartYear = 2025
+
+# favicon = "favicon.ico"
+
+# Syntax highlighting
+# customSyntaxHighlighting = true
+
+# options
+stickyNav = true
+reorderNavItems = ["about", "search", "github"]
+#reorderNavItems = ["about", "search",  "posts", "categories", "tags"]
+collapseNavItems = ["posts", "categories", "tags", "rss"]
+# noDefaultSummaryCover = true
+showTableOfContents = true
+# showSummaryCoverInPost = true
+imageZoomableInPost = true
+showPrevNextPost = true
+# reorderShares = ["x", "facebook", "whatsapp"]
+
+[params.navItems]
+github = { href = "https://github.com/SaurabhRohankar", target = "_blank", icon = "logo-github", title = "GitHub" }
+#series = { href = "/series", icon = "planet", title = "Series" }
+
+# [params.twikoo]
+# enabled = true
+# envID = ""
+# region = ""
+# lang = ""
+
+# [params.advanced]
+# customCSS = ["css/custom.css"]
+# customJS = []
+
+# [params.experimental]
+# jsDate = true
+# jsDateFormat = "yyyy年MM月dd日"
