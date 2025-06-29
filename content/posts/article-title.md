@@ -25,6 +25,6 @@ Hey, there!
 Hey matt,
 came all this way,
 had to explain
-direct from Domingo,
+direct from Domingo
 ...
 
