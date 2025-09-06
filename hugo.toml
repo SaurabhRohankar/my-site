@@ -13,6 +13,9 @@ theme = 'dream'
 [params]
 # zenMode = true
 
+spotifyPlaylist = "https://open.spotify.com/playlist/4CnrIOIum7sPgq3wQoreiB?si=9d3c589371b94173"
+letterboxd = "https://boxd.it/cly5b"
+
 lightTheme = "emerald"
 darkTheme = "forest"
 

@@ -1,5 +1,5 @@
 ---
-title: Article Title
+title: The Beginnings
 date: 2025-06-28T17:53:23+05:30
 lastmod: 2025-06-28T17:53:23+05:30
 author: Saurabh Rohankar
@@ -17,14 +17,10 @@ tags:
 # math: true
 ---
 
-Hi, this is the test post.
+Hey, there! This is a test post I am making to my blog. This is where it's all starting again. To the Beginnings 🥂
 
 <!--more-->
 
-Hey, there!
-Hey matt,
-came all this way,
-had to explain
-direct from Domingo
+New post coming up soon...
 ...
 
