@@ -8,9 +8,6 @@
     <loc>http://localhost:8080/search/</loc>
     <lastmod>2025-06-28T20:50:44+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:8080/posts/article-title/</loc>
-    <lastmod>2025-06-28T17:53:23+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:8080/categories/</loc>
     <lastmod>2025-06-28T17:53:23+05:30</lastmod>
   </url><url>
@@ -27,6 +24,9 @@
     <lastmod>2025-06-28T17:53:23+05:30</lastmod>
   </url><url>
     <loc>http://localhost:8080/tags/</loc>
+    <lastmod>2025-06-28T17:53:23+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:8080/posts/article-title/</loc>
     <lastmod>2025-06-28T17:53:23+05:30</lastmod>
   </url>
 </urlset>

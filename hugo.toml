@@ -47,7 +47,7 @@ rss = true
 
 siteStartYear = 2025
 
-favicon = "img/avatar.jpg"
+favicon = "img/favicon.png"
 
 # Syntax highlighting
 # customSyntaxHighlighting = true
