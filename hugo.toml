@@ -11,7 +11,7 @@ theme = 'dream'
 # ID = ""
 [services]
   [services.googleAnalytics]
-    id = 'G-MEASUREMENT_ID'
+    id = 'G-BSVYY6EDVV'
 
 [params]
 # zenMode = true
