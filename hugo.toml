@@ -9,6 +9,9 @@ theme = 'dream'
 # shortname = ""
 # [services.googleAnalytics]
 # ID = ""
+[services]
+  [services.googleAnalytics]
+    id = 'G-MEASUREMENT_ID'
 
 [params]
 # zenMode = true
